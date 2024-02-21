@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(242, 230, 255);
+    background-color: white;
+    /* background-color: red; */
+    height: 70vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    font-family: poppins;    
+    overflow-x: hidden; 
+}
